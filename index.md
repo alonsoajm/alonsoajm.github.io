@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/alonsoajm/alonsoajm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an assistant professor of economics at the University of Cantabria.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research lies in Economics, but also incorporates insights from Management and Public Administration. In particular, my research interests include public service performance and public sector reform, with an emphasis on privatization, marketization and decentralization. I have recently published in international peer-reviewed journals including Strategic Management Journal, World Development and Public Administration, among others.
 
 ### Markdown
 
